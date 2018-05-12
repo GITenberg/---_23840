@@ -16,6 +16,8 @@ creator:
     - http://zh.wikipedia.org/wiki/%E6%9C%B1%E7%86%B9
     - http://en.wikipedia.org/wiki/Zhu_Xi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23840#---
 gutenberg_issued: '2007-12-13'
 gutenberg_type: Text
 identifiers:
